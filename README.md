@@ -1,4 +1,4 @@
-# CodeAlpha_Hangman_and_chatbot__task
+# CodeAlpha_Hangman_task
 The game challenges users to guess a hidden word letter-by-letter with a limited number of wrong attempts.
 📄 Project Overview
 The Hangman game chooses a random word from a predefined list.
@@ -14,25 +14,15 @@ If the word is guessed correctly before all attempts are used, the player wins �
 
 🧩 Python Concepts Used
 random.choice() from the random module
-
 while loops and if-elif-else conditions
-
 Working with strings and lists
-
 Clean input/output handling in the terminal
 
 ▶️ How to Run the Game
 Make sure Python 3 is installed on your system.
-
 Download or clone the hangman.py file.
-
 Open your terminal or command prompt.
-
 Navigate to the folder where the file is saved.
-
 Run the game with:
 
-bash
-Copy
-Edit
 python hangman.py
